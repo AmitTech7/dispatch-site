@@ -47,13 +47,13 @@ export const services: Service[] = [
     seoDescription:
       "Hand assembly of kits, subscription boxes, gift sets and promotional packs in Brampton, Ontario. Sohi Packaging Solutions handles kitting from components to finished carton.",
     intro: [
-      "We assemble multi-component products into finished kits — subscription boxes, gift sets, sample kits, promotional packs and retail displays.",
+      "We assemble multi-component products into finished kits — gift sets and sample kits.",
       "Our team follows your pack-out instructions and photos so every kit looks the same, with inserts, protective fill and outer cartons included.",
     ],
     included: [
       "Kit and gift-set assembly",
-      "Subscription and sample boxes",
-      "Inserts, leaflets and promotional material",
+      "Sample boxes",
+      // "Inserts, leaflets and promotional material",
       "Protective wrapping and void fill",
       "Display and shelf-ready packaging",
     ],
@@ -74,7 +74,7 @@ export const services: Service[] = [
     ],
     included: [
       "Product and brand labels",
-      "UPC / barcode and FNSKU stickers",
+      "UPC / barcode",
       "Best-before and lot-code labels",
       "Re-labelling and over-stickering",
       "Carton and shipping labels",
@@ -91,11 +91,11 @@ export const services: Service[] = [
     seoDescription:
       "Product bundling, multipacks, banded packs and gift bundles in Brampton, Ontario. Sohi Packaging Solutions creates retail- and e-commerce-ready bundles.",
     intro: [
-      "We combine products into multipacks, value bundles, buy-one-get-one packs and gift sets — banded, shrink-wrapped, boxed or tied, depending on the look you want.",
-      "Bundles are labelled and packed into outer cartons so they're ready for retail shelves, warehouses or direct-to-customer orders.",
+      "We combine products into multipacks and gift sets — banded, boxed or tied, depending on the look you want.",
+      // "Bundles are labelled and packed into outer cartons so they're ready for retail shelves, warehouses or direct-to-customer orders.",
     ],
     included: [
-      "Multipacks and value packs",
+      "Multipacks",
       "Banding, tying and sleeving",
       "Gift and holiday bundles",
       "Bundle labels and barcodes",

@@ -19,7 +19,7 @@ export function HeroSection() {
             id="hero-title"
             className="mt-5 text-4xl leading-tight font-extrabold tracking-tight text-navy-800 sm:text-5xl"
           >
-            Co-Packing &amp; Contract Packaging in Brampton, Ontario
+            Co-Packing &amp; Contract Packaging in Ontario
           </h1>
           <p className="mt-5 text-lg leading-relaxed text-muted">
             Sohi Packaging Solutions handles your product packaging from start to finish — planning, filling,

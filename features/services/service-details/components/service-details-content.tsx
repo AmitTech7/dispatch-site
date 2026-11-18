@@ -119,7 +119,7 @@ export function ServiceDetailsContent({ service, otherServices }: Props) {
             </p>
           </div>
 
-          <aside className="space-y-6">
+          {/* <aside className="space-y-6">
             <div className="rounded-2xl bg-navy-50 p-6">
               <h2 className="text-lg font-extrabold text-navy-800">Ideal for</h2>
               <ul className="mt-3 space-y-2 text-muted">
@@ -143,7 +143,8 @@ export function ServiceDetailsContent({ service, otherServices }: Props) {
                 ))}
               </ul>
             </div>
-          </aside>
+          </aside> */}
+
         </div>
       </section>
 

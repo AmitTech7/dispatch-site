@@ -9,6 +9,9 @@ const nextConfig: NextConfig = {
     minimumCacheTTL: 2678400,
   },
   partialPrefetching: true,
+  experimental: {
+    agentUpgrade: "security",
+  },
   turbopack: {
     rules: {
       "*.css": {
